@@ -5,6 +5,11 @@
     cursor: pointer;
 }
 
+puntero{
+    border: 2em solid #0000ff;
+    border-style:dashed ;
+}
+
 .textoresaltado{
     background-color: gold;
     font-family: Arial, Helvetica, sans-serif;
